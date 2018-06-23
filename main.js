@@ -12,12 +12,7 @@ if (process.mas) app.setName('Electron APIs')
 
 let mainWindow = null
 
-function initialize() {
-  // const shouldQuit = makeSingleInstance()
-  // if (shouldQuit) return app.quit()
-
-
-
+function initialize() { 
   loadDemos()
 
   function createWindow() {
