@@ -51,7 +51,6 @@ $ npm run dev
 * Tradition Chinese translation of this app is available at [`CalvertYang/electron-api-demos-zh-Hant`](https://github.com/CalvertYang/electron-api-demos-zh-Hant).
 
 ## Notes:  
-
 - this version is maintened by MEDIACEPT Technology
 
 
